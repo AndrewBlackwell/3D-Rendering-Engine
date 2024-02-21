@@ -2,6 +2,10 @@
 
 <img src="doc/demo.png">
 
+### TODO:
+
+- [ ] remove sliders in favor of mouse/touch controls.
+
 ## Overview
 
 The `Main` class sets up a Swing JFrame with sliders to control various aspects of the 3D rendering, such as heading (horizontal rotation), pitch (vertical rotation), roll, and field of view (FoV). The rendering is done in a custom JPanel (`renderPanel`) using Java2D.
